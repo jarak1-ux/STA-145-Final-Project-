@@ -9,5 +9,6 @@ The data collected for this project were songs from the website Pitchfork which 
 
 # Operationalization
 To operationalize the level of explicitness, I went to Spotify and listened to each individual song where I calculated the amount of times innapropriate language was used. 
+
 To operationalize song certification, I went to who.sampled.com where it determined the highest level of certification each song recieved.
 
