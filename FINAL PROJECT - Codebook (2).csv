@@ -1,0 +1,33 @@
+Concept,Variable,Varname,Variable Description,Values/Codes,"Notes, including data source"
+artist,gender,gender_of_artist,gender of the artist (M/F/Mix),"1=woman,2=man,3=mix/band","qualitative,wikipedia"
+race,race,race_of_lead_artist,race of lead artist,"1=black,2=white,3=latin,4=asian,5=mixed race,6=other","qualitative,wikipedia"
+time,length,length_of_song,length of the song in minutes,numeric,"quantitative, music video on youtube"
+age,age,age_of_lead_artist,age of the lead artist in years,numeric,"quantitative, wikipedia"
+rhythm ,beat,beat_of_song,beat of the song ,"1=fast, 2= slow, 3= mix"," qualitative, youtube video"
+year,year,year_of_song ,year the song was released,numeric,"quanitiative, genuis"
+theme,theme,lyrical_theme,theme of the song,"1=love,2=identity,3=party,4=wealth,5=mix","qualitative, genius"
+single or album,single or album,single_or_album ,"is the song a single, or relased in album ","1=single,2=album","qualitative, wikipedia"
+level of formality,level of fornality,level_of_formality,how informal or formal lanaguage is,1=formal 2=mix 3=informal 4=slang,"qualitative, genius"
+language,language,language_of_song,language of song,1=english 2=spanish 3=other,"qualatative,genius"
+streams ,streams,monthly_listeners,amount of streams on spotify monthly,numeric,"quanitative, spotify"
+artist Count,artist count,artist_count,total number of artists involved ,numeric,"quantitative, watching youtube video"
+explicit,explicit,explcit_or_clean,"the song labeled explicit or clean, or both versions","1=explicit,2=clean, 3=both","qualitative, spotify or apple music"
+awards,awards,awards_won,did the song win any awards,"1=yes,2=no","qualitative, wikipedia"
+songwriters,songwriters,number_of_songwriters,number of songwriters involved ,numeric ,"quantitative, wikipedia"
+chorus,chorus,repition_of_chorus,number of times the chorus repeats ,numeric ,"quantitative, genius"
+Vocalists,vocalists,number_of_vocalists,number of vocalists,numeric,"quantitative, wikipedia"
+Instruments,instruments,number_of_instruments,number of instruments,numeric,"quantitative, genius"
+Chart number 1 ,chart number 1,chart_number_1,has the song been number 1,1=yes 2=no,"qualitative, Music Charts Archive 
+"
+Video,music video,music_video,does it have a music video,1=yes 2=no,"qualitative, youtube"
+certification,certification,certification_of_song,what is the highest certfiication the song recieved,"1=diamond, 2=platinum, 3=gold 4=does not have one",quantitative; https://www.riaa.com/gold-platinum/
+tempo,tempo,tempo_of_song,what is the tempo of the song,"1=fast, 2=slow, 3=moderate",quantitative; youtube.com
+song sampled,song sampled,has_song_been_sampled,has the song been sampled by another artist,"1=yes, 2=no",quantitative; who.sampled.com
+virality score,virality score,virality_score_of_song,what is the song's virality score,numeric (1-10),quantitative. metrix.musicstax.com
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+The 200 Best Songs of the 2010s | Pitchfork,,,,,
